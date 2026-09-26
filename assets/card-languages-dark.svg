@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="196" viewBox="0 0 560 196" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
+<style>.seg{transform-box:fill-box;transform-origin:left;animation:grow .9s cubic-bezier(.2,.8,.2,1) both}@keyframes grow{from{transform:scaleX(0)}}.r{opacity:0;animation:in .4s ease-out forwards}@keyframes in{to{opacity:1}}@media (prefers-reduced-motion:reduce){.seg,.r{animation:none;opacity:1}}</style>
+<path transform="translate(26 18)" fill="#8b949e" d="M1.75 1h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 13H8.061l-2.574 2.573A1.458 1.458 0 0 1 3 14.543V13H1.75A1.75 1.75 0 0 1 0 11.25v-8.5C0 1.784.784 1 1.75 1ZM1.5 2.75v8.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-8.5a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25Zm5.28 1.72a.75.75 0 0 1 0 1.06L5.31 7l1.47 1.47a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018l-2-2a.75.75 0 0 1 0-1.06l2-2a.75.75 0 0 1 1.06 0Zm2.44 0a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L10.69 7 9.22 5.53a.75.75 0 0 1 0-1.06Z"/>
+<text x="52" y="32" fill="#2dd4bf" font-size="19" font-weight="500">5 Languages</text>
+<text x="280.0" y="62" text-anchor="middle" fill="#2dd4bf" font-size="15">Most used languages</text>
+<clipPath id="bar"><rect x="26" y="76" width="508" height="8" rx="4"/></clipPath>
+<g clip-path="url(#bar)">
+<rect class="seg" style="animation-delay:0.00s" x="26.00" y="76" width="445.50" height="8" fill="#3572A5"/>
+<rect class="seg" style="animation-delay:0.05s" x="470.50" y="76" width="37.29" height="8" fill="#f1e05a"/>
+<rect class="seg" style="animation-delay:0.10s" x="506.79" y="76" width="10.07" height="8" fill="#e34c26"/>
+<rect class="seg" style="animation-delay:0.15s" x="515.86" y="76" width="10.07" height="8" fill="#663399"/>
+<rect class="seg" style="animation-delay:0.20s" x="524.93" y="76" width="10.07" height="8" fill="#3178c6"/>
+</g>
+<g class="r" style="animation-delay:0.40s"><circle cx="32" cy="107" r="5" fill="#3572A5"/><text x="46" y="112" fill="#e6edf3" font-size="15">Python</text><text x="210" y="112" text-anchor="end" fill="#8b949e" font-size="13">49 repos</text><text x="268" y="112" text-anchor="end" fill="#8b949e" font-size="13">87.50%</text></g>
+<g class="r" style="animation-delay:0.45s"><circle cx="286" cy="107" r="5" fill="#f1e05a"/><text x="300" y="112" fill="#e6edf3" font-size="15">JavaScript</text><text x="464" y="112" text-anchor="end" fill="#8b949e" font-size="13">4 repos</text><text x="522" y="112" text-anchor="end" fill="#8b949e" font-size="13">7.14%</text></g>
+<g class="r" style="animation-delay:0.50s"><circle cx="32" cy="133" r="5" fill="#e34c26"/><text x="46" y="138" fill="#e6edf3" font-size="15">HTML</text><text x="210" y="138" text-anchor="end" fill="#8b949e" font-size="13">1 repo</text><text x="268" y="138" text-anchor="end" fill="#8b949e" font-size="13">1.79%</text></g>
+<g class="r" style="animation-delay:0.55s"><circle cx="286" cy="133" r="5" fill="#663399"/><text x="300" y="138" fill="#e6edf3" font-size="15">CSS</text><text x="464" y="138" text-anchor="end" fill="#8b949e" font-size="13">1 repo</text><text x="522" y="138" text-anchor="end" fill="#8b949e" font-size="13">1.79%</text></g>
+<g class="r" style="animation-delay:0.60s"><circle cx="32" cy="159" r="5" fill="#3178c6"/><text x="46" y="164" fill="#e6edf3" font-size="15">TypeScript</text><text x="210" y="164" text-anchor="end" fill="#8b949e" font-size="13">1 repo</text><text x="268" y="164" text-anchor="end" fill="#8b949e" font-size="13">1.79%</text></g>
+</svg>

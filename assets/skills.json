@@ -1,0 +1,13 @@
+{
+  "_comment": "Self-rated, 0-10. Edit and push - the workflow redraws assets/radar-*.svg.",
+  "title": "skills.radar",
+  "axes": [
+    { "label": "LLMs & Agents", "value": 9 },
+    { "label": "RAG", "value": 9 },
+    { "label": "ML / DL", "value": 8 },
+    { "label": "Backend", "value": 7 },
+    { "label": "Data Eng", "value": 7 },
+    { "label": "AI Infra", "value": 6 },
+    { "label": "Game Dev", "value": 6 }
+  ]
+}
