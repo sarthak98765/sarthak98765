@@ -4,10 +4,10 @@
 <text x="26" y="40" fill="#0f766e" font-size="19" font-weight="600">sarthak98765</text>
 <text x="534" y="40" text-anchor="end" fill="#656d76" font-size="13">at a glance · since 2023</text>
 <line x1="26" y1="56" x2="534" y2="56" stroke="#d0d7de"/>
-<g class="c" style="animation-delay:0.00s"><text x="26" y="96" fill="#1f2328" font-size="30" font-weight="700">91</text><text x="26" y="118" fill="#656d76" font-size="13">Active days (1y)</text></g>
+<g class="c" style="animation-delay:0.00s"><text x="26" y="96" fill="#1f2328" font-size="30" font-weight="700">93</text><text x="26" y="118" fill="#656d76" font-size="13">Active days (1y)</text></g>
 <g class="c" style="animation-delay:0.08s"><text x="195" y="96" fill="#1f2328" font-size="30" font-weight="700">64</text><text x="195" y="118" fill="#656d76" font-size="13">Public repos</text></g>
 <g class="c" style="animation-delay:0.16s"><text x="365" y="96" fill="#1f2328" font-size="30" font-weight="700">11</text><text x="365" y="118" fill="#656d76" font-size="13">Followers</text></g>
-<g class="c" style="animation-delay:0.24s"><text x="26" y="162" fill="#1f2328" font-size="30" font-weight="700">360</text><text x="26" y="184" fill="#656d76" font-size="13">Contributions (1y)</text></g>
-<g class="c" style="animation-delay:0.32s"><text x="195" y="162" fill="#1f2328" font-size="30" font-weight="700">10</text><text x="195" y="184" fill="#656d76" font-size="13">Current streak</text></g>
-<g class="c" style="animation-delay:0.40s"><text x="365" y="162" fill="#1f2328" font-size="30" font-weight="700">10</text><text x="365" y="184" fill="#656d76" font-size="13">Longest streak</text></g>
+<g class="c" style="animation-delay:0.24s"><text x="26" y="162" fill="#1f2328" font-size="30" font-weight="700">389</text><text x="26" y="184" fill="#656d76" font-size="13">Contributions (1y)</text></g>
+<g class="c" style="animation-delay:0.32s"><text x="195" y="162" fill="#1f2328" font-size="30" font-weight="700">12</text><text x="195" y="184" fill="#656d76" font-size="13">Current streak</text></g>
+<g class="c" style="animation-delay:0.40s"><text x="365" y="162" fill="#1f2328" font-size="30" font-weight="700">12</text><text x="365" y="184" fill="#656d76" font-size="13">Longest streak</text></g>
 </svg>
