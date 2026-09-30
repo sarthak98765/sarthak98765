@@ -83,7 +83,6 @@ LLM applications, retrieval, agents, and the backend infrastructure behind them.
 </td>
 <td width="50%" align="center" valign="middle">
 
-<!-- Language radar - pulled from GitHub by the workflow -->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-langs-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
