@@ -5,11 +5,11 @@
 <text x="280.0" y="62" text-anchor="middle" fill="#0f766e" font-size="15">Most used languages</text>
 <clipPath id="bar"><rect x="26" y="76" width="508" height="8" rx="4"/></clipPath>
 <g clip-path="url(#bar)">
-<rect class="seg" style="animation-delay:0.00s" x="26.00" y="76" width="485.27" height="8" fill="#3572A5"/>
-<rect class="seg" style="animation-delay:0.05s" x="510.27" y="76" width="22.84" height="8" fill="#f1e05a"/>
-<rect class="seg" style="animation-delay:0.10s" x="532.11" y="76" width="1.67" height="8" fill="#e34c26"/>
+<rect class="seg" style="animation-delay:0.00s" x="26.00" y="76" width="485.25" height="8" fill="#3572A5"/>
+<rect class="seg" style="animation-delay:0.05s" x="510.25" y="76" width="22.83" height="8" fill="#f1e05a"/>
+<rect class="seg" style="animation-delay:0.10s" x="532.09" y="76" width="1.69" height="8" fill="#e34c26"/>
 <rect class="seg" style="animation-delay:0.15s" x="532.78" y="76" width="1.52" height="8" fill="#3178c6"/>
-<rect class="seg" style="animation-delay:0.20s" x="533.29" y="76" width="1.50" height="8" fill="#663399"/>
+<rect class="seg" style="animation-delay:0.20s" x="533.30" y="76" width="1.50" height="8" fill="#663399"/>
 <rect class="seg" style="animation-delay:0.25s" x="533.78" y="76" width="1.50" height="8" fill="#878787"/>
 <rect class="seg" style="animation-delay:0.30s" x="533.93" y="76" width="1.50" height="8" fill="#5a6986"/>
 <rect class="seg" style="animation-delay:0.35s" x="533.96" y="76" width="1.50" height="8" fill="#89e051"/>
@@ -21,7 +21,7 @@
 </g>
 <g class="r" style="animation-delay:0.40s"><circle cx="32" cy="107" r="5" fill="#3572A5"/><text x="46" y="112" fill="#1f2328" font-size="15">Python</text><text x="210" y="112" text-anchor="end" fill="#656d76" font-size="13">146 MB</text><text x="268" y="112" text-anchor="end" fill="#656d76" font-size="13">95.33%</text></g>
 <g class="r" style="animation-delay:0.45s"><circle cx="286" cy="107" r="5" fill="#f1e05a"/><text x="300" y="112" fill="#1f2328" font-size="15">JavaScript</text><text x="464" y="112" text-anchor="end" fill="#656d76" font-size="13">6.58 MB</text><text x="522" y="112" text-anchor="end" fill="#656d76" font-size="13">4.30%</text></g>
-<g class="r" style="animation-delay:0.50s"><circle cx="32" cy="133" r="5" fill="#e34c26"/><text x="46" y="138" fill="#1f2328" font-size="15">HTML</text><text x="210" y="138" text-anchor="end" fill="#656d76" font-size="13">202 kB</text><text x="268" y="138" text-anchor="end" fill="#656d76" font-size="13">0.13%</text></g>
+<g class="r" style="animation-delay:0.50s"><circle cx="32" cy="133" r="5" fill="#e34c26"/><text x="46" y="138" fill="#1f2328" font-size="15">HTML</text><text x="210" y="138" text-anchor="end" fill="#656d76" font-size="13">208 kB</text><text x="268" y="138" text-anchor="end" fill="#656d76" font-size="13">0.14%</text></g>
 <g class="r" style="animation-delay:0.55s"><circle cx="286" cy="133" r="5" fill="#3178c6"/><text x="300" y="138" fill="#1f2328" font-size="15">TypeScript</text><text x="464" y="138" text-anchor="end" fill="#656d76" font-size="13">156 kB</text><text x="522" y="138" text-anchor="end" fill="#656d76" font-size="13">0.10%</text></g>
 <g class="r" style="animation-delay:0.60s"><circle cx="32" cy="159" r="5" fill="#663399"/><text x="46" y="164" fill="#1f2328" font-size="15">CSS</text><text x="210" y="164" text-anchor="end" fill="#656d76" font-size="13">145 kB</text><text x="268" y="164" text-anchor="end" fill="#656d76" font-size="13">0.09%</text></g>
 <g class="r" style="animation-delay:0.65s"><circle cx="286" cy="159" r="5" fill="#878787"/><text x="300" y="164" fill="#1f2328" font-size="15">Hack</text><text x="464" y="164" text-anchor="end" fill="#656d76" font-size="13">46.3 kB</text><text x="522" y="164" text-anchor="end" fill="#656d76" font-size="13">0.03%</text></g>
