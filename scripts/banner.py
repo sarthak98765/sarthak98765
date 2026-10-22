@@ -1,15 +1,3 @@
-"""Generate the animated profile banner (assets/banner-{dark,light}.svg).
-
-    pip install numpy opencv-python-headless
-    python scripts/banner.py
-
-Left panel: the photo in assets/source/avatar.jpg, cut out with GrabCut and
-Floyd-Steinberg dithered (serpentine scan) into 1-bit dots that print in
-top-to-bottom; then a subset of dots loops through the icons in SHAPES and
-back. Right panel: a system-info readout. Run it by hand after
-changing the photo or ROWS - it is not part of the daily workflow.
-"""
-
 from pathlib import Path
 from xml.sax.saxutils import escape
 
