@@ -1,6 +1,5 @@
 from pathlib import Path
 from xml.sax.saxutils import escape
-
 import cv2
 import numpy as np
 
