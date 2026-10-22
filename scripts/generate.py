@@ -1,13 +1,3 @@
-"""Generate the radar charts and stats card the profile README uses.
-(The banner comes from scripts/banner.py, which is run by hand.)
-
-    python scripts/generate.py
-
-Stdlib only. Set GITHUB_TOKEN for exact language bytes (GraphQL); without it,
-falls back to the public REST API and counts repos by primary language, and
-reads the contribution calendar off the public profile page.
-"""
-
 import json
 import math
 import os
