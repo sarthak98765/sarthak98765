@@ -25,8 +25,6 @@ THEMES = {
 }
 
 
-# --------------------------------------------------------------------- data
-
 # Linguist colours for the REST fallback (GraphQL returns them directly).
 LANG_COLORS = {
     "Python": "#3572A5", "Jupyter Notebook": "#DA5B0B", "JavaScript": "#f1e05a",
